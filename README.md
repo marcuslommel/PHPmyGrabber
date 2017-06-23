@@ -1,2 +1,5 @@
 # PHPmyGrabber
-Grabs PHPmyAdmin root pwd hash.
+
+(2012)
+
+Designed and used successfully for one specific application.
